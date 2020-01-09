@@ -20,7 +20,10 @@ body {
 }
 
 #fine:hover {
-	background-color: black;
+	background-image: url(img/fine-01.png);
+	background-size:cover;
+	background-position: center;
+	background-repeat: no-repeat;
 	cursor: pointer;
 }
 
